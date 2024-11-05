@@ -1,3 +1,4 @@
+![Festival electronics sale analysis](https://raw.githubusercontent.com/LoveneetK13/SQL-Festival-sales-analysis/refs/heads/main/festival%20sales.png)
 📊 Festival Electronics Sale Analysis
 
 Performance Insights for Chandigarh’s E-commerce Market
